@@ -27,8 +27,8 @@ namespace Mycobot.csharp
             // Console.WriteLine(v);
             // }
 
-            mc.SendOneAngle(1,0, 70);
-            Thread.Sleep(100);
+            //mc.SendOneAngle(1,0, 70);
+            //Thread.Sleep(100);
             /*var angle = new int[6];
             angle = mc.GetAngles();
             foreach (var v in angle)
